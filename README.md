@@ -1,2 +1,1 @@
-# it666
-git study
+# 知播渔Git教程
